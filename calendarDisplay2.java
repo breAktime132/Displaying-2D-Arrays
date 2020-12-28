@@ -1,4 +1,4 @@
-/* [redacted], [redacted], and Peter Abdulmasih
+/* [redacted], [redacted], and Peter.
 (Names removed due to the abscence of developers' permissions).
    12/11/18 
    Programming Essentials

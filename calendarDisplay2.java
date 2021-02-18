@@ -1,7 +1,6 @@
 /* [redacted], [redacted], and Peter.
 (Names removed due to the abscence of developers' permissions).
    12/11/18 
-   Programming Essentials
    Java program that takes the userinput of a month year and day and prints out a calendar based on the input.
    Original Version - 12/11/18
 */
